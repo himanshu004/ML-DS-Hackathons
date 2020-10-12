@@ -5,7 +5,7 @@
 
 ## Kaggle-Submissions
 ### 1.Titanic Survival Prediction: 
-* #### [Using Conventional MLT](https://colab.research.google.com/drive/1pdni1p-ENdLXeXh32HpbWRbY1wZlm4Ok?usp=sharing)
+* #### [Using Conventional MLT](https://www.kaggle.com/tug004/surviving-titanic-the-right-way)
 * #### [Using PyCaret Library](https://colab.research.google.com/drive/1F_oJd89NxnFrJ8idbGo37AoX0gV10qTT?usp=sharing)
 ### 2.House Prices Advanced Regression Techniques:
 * #### [Using PyCaret Library](https://colab.research.google.com/drive/1dO1IPVRS_l-lhMJHbFjeG7PJPPb_MZ4i?usp=sharing)
